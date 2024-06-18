@@ -42,19 +42,21 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto HTML: Boas práticas em acessibilidade |                                             |
-| conteúdo | ```Comporte-se como um escritor de artigo tech Front-end e escreva um artigo com as regras abaixo:
-> O título do artigo é: "HTML e Acessibilidade: Como Criar Sites Inclusivos";
-> O Subtítulo é: "Acessibilidade na Web: Guia Rápido para os 5 Fundamentos em HTML";
-> Cada bloco terá de 2 a 3 parágrafos no máximo;
-> Cada parágrafo terá no máximo 5 linhas;
-> Deverá conter 1 parágrafo de introdução e 1 de conclusão;
-> Tenha um tom de voz informal;
-> O texto deve ser compreendível para pessoas com pouco conhecimento em programação;
-> O texto deve ser compreendível para programadores sem conhecimento em front-end;
-> Os blocos a serem criados são: "Estrutura Semântica", "Textos Alternativos", "Contraste de Cores", "Foco Visível", e "Legendas e Transcrições";
-> Cada bloco deve conter um exemplo em forma de código;
-> Faça um call to action para as minhas redes sociais: Github e LinkedIn;
-> Coloque 3 hashtags que façam sentido.```|
+| conteúdo | Comporte-se como um escritor de artigo tech Front-end e escreva um artigo com as regras abaixo:
+- O título do artigo é: "HTML e Acessibilidade: Como Criar Sites Inclusivos";
+
+- O Subtítulo é: "Acessibilidade na Web: Guia Rápido para os 5 Fundamentos em HTML";
+- Cada bloco terá de 2 a 3 parágrafos no máximo;
+- Cada parágrafo terá no máximo 5 linhas;
+
+- Deverá conter 1 parágrafo de introdução e 1 de conclusão;
+- Tenha um tom de voz informal;
+- O texto deve ser compreendível para pessoas com pouco conhecimento em programação;
+- O texto deve ser compreendível para programadores sem conhecimento em front-end;
+- Os blocos a serem criados são: "Estrutura Semântica", "Textos Alternativos", "Contraste de Cores", "Foco Visível", e "Legendas e Transcrições";
+- Cada bloco deve conter um exemplo em forma de código;
+- Faça um call to action para as minhas redes sociais: Github e LinkedIn;
+- Coloque 3 hashtags que façam sentido.|
 
 
 

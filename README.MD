@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
   </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
+  
   </a>
 </p>
 
@@ -22,13 +22,7 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Santander 2024 - Fundamentos de IA para Devs.
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
@@ -37,8 +31,8 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
-- [Lexica.art](https://lexica.art/) - para gerar imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [Canva](https://www.canva.com/) - Para formatação de banners, Layouts e imagens
+
 
 ## 📄 Prompts e ferramentas
 
@@ -47,54 +41,27 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto HTML: Boas práticas em acessibilidade |                                             |
+| conteúdo | ```Comporte-se como um escritor de artigo tech Front-end e escreva um artigo com as regras abaixo:
+> O título do artigo é: "HTML e Acessibilidade: Como Criar Sites Inclusivos";
+> O Subtítulo é: "Acessibilidade na Web: Guia Rápido para os 5 Fundamentos em HTML";
+> Cada bloco terá de 2 a 3 parágrafos no máximo;
+> Cada parágrafo terá no máximo 5 linhas;
+> Deverá conter 1 parágrafo de introdução e 1 de conclusão;
+> Tenha um tom de voz informal;
+> O texto deve ser compreendível para pessoas com pouco conhecimento em programação;
+> O texto deve ser compreendível para programadores sem conhecimento em front-end;
+> Os blocos a serem criados são: "Estrutura Semântica", "Textos Alternativos", "Contraste de Cores", "Foco Visível", e "Legendas e Transcrições";
+> Cada bloco deve conter um exemplo em forma de código;
+> Faça um call to action para as minhas redes sociais: Github e LinkedIn;
+> Coloque 3 hashtags que façam sentido.```|
 
-
-Lexica.art：
-
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• Angular
 
 
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Imagens do acervo da plataforma Canva
 
-## 📚 Materiais
 
-- prompts utilizados
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)

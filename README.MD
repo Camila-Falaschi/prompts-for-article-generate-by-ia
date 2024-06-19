@@ -15,7 +15,7 @@
 <p align="center">
   <img 
     src=".github/assets/article-preview.png"
-    width="400"  
+    width="600"  
   />
 </p>
 

@@ -26,7 +26,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/acessibilidade-na-web-guia-rapido-para-os-5-fundamentos-em-html?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://www.dio.me/articles/acessibilidade-na-web-guia-rapido-para-os-5-fundamentos-em-html" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
